@@ -3,5 +3,5 @@
 SOU ESTUDANTE DE TECNOLOGIA DA ESCOLA JOAO MARCIANO 
 
 - Estou aprendendo na plataforma Alura;
-
-- ![](https://tenor.com/pt-BR/view/funny-bouncy-car-gif-23109262)
+  
+- !{}(https://media1.tenor.com/m/rxxhixJPj9QAAAAd/funny-bouncy-car.gif)
